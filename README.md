@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jordan Mruczyński</h1>
+<h1 align="center">Hi 👋, I'm Jordan Mruczyński</h1>
 <h3 align="center">A passionate freelancer, java developer from Poland</h3>
 
 - 🌱 I’m currently learning **everything 🤣**
