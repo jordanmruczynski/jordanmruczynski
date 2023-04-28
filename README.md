@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanmruczynski&show_icons=true&locale=en&layout=compact" alt="jordanmruczynski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanmruczynski&show_icons=true&locale=en" alt="jordanmruczynski" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanmruczynski&show_icons=true&locale=en" alt="jordanmruczynski" /></p> 
