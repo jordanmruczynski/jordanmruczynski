@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JVM**
 
-- 📫 How to reach me **joromruc@gmail.com / Jordii#7622**
+- 📫 How to reach me **jordanmruczynski@gmail.com / Jordii#7622**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
