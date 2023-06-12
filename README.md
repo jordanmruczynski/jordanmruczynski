@@ -7,7 +7,7 @@
 
 - 📝 I regularly help students on JetBrains HyperSkill [https://hyperskill.org](https://hyperskill.org)
 
-- 💬 Ask me about **JVM**
+- 💬 The newest project: https://github.com/jordanmruczynski/jmservices
 
 - 📫 How to reach me **jordanmruczynski@gmail.com / Jordii#7622**
 
