@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jordan Mruczyński</h1>
-<h3 align="center">A passionate java developer from Poland</h3>
+<h3 align="center">A passionate Java Developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmruczynski&label=Profile%20views&color=0e75b6&style=flat" alt="jordanmruczynski" /> </p>
 
-- 🌱 I’m currently learning Cloud, AWS :)
+- 🌱 I’m currently learning Cloud and Frontend :)
 
 - 📝 I regularly help students on JetBrains HyperSkill [https://hyperskill.org](https://hyperskill.org)
 
-- 📫 How to reach me jordanmruczynski@gmail.com / Jordii#7622
+- 📫 How to reach me jordanmruczynski@gmail.com / jordanmruczynski#7622
 
 - 💬 The newest project: **https://github.com/jordanmruczynski/jmservices**
 
