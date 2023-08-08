@@ -7,7 +7,7 @@
 
 - 📝 I regularly help students on JetBrains HyperSkill [https://hyperskill.org](https://hyperskill.org)
 
-- 📫 How to reach me jordanmruczynski@gmail.com / jordanmruczynski#7622
+- 📫 How to reach me jordanmruczynski@gmail.com 
 
 - 💬 The newest project: **https://github.com/jordanmruczynski/jmservices**
 
