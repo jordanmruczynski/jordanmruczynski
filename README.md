@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmruczynski&label=Profile%20views&color=0e75b6&style=flat" alt="jordanmruczynski" /> </p>
 
-- 🌱 I’m currently learning AWS and Angular :)
+- 🌱 I’m currently learning **AWS** and **Angular** :)
 
-- 📝 I regularly help students on JetBrains HyperSkill [JetBrains Academy](https://hyperskill.org)
+- 📝 I regularly help students on JetBrains HyperSkill **[JetBrains Academy](https://hyperskill.org)**
 
-- 📫 How to reach me jordanmruczynski@gmail.com 
+- 📫 How to reach me **jordanmruczynski@gmail.com** 
 
 - 💬 The newest project: **[Microservices architecture example](https://github.com/jordanmruczynski/Microservices-architecture-distributed-systems)**
 
